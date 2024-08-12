@@ -1,5 +1,5 @@
 ---
-title: 'Capstone Project: Bellabeat'
+title: 'Google Capstone Project: Bellabeat'
 author: "Ashir Dill"
 date: "`r Sys.Date()`"
 output:
